@@ -1,0 +1,34 @@
+{
+  "id": "9e5c76b4-15fa-4e49-8c79-df46ecd46810",
+  "name": "Life is great",
+  "auto": true,
+  "contexts": [],
+  "userSays": [
+    {
+      "id": "343fed30-32c2-4465-8623-5d9f2e7c0cd7",
+      "data": [
+        {
+          "text": "Life is great"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "speech": [
+        "Yas!",
+        "Change starts with us as individuals. If one individual becomes more compassionate it will influence others and so we will change the world.",
+        "If you want others to be happy practice compassion; and if you want yourself to be happy practice compassion."
+      ]
+    }
+  ],
+  "state": "LEARNED",
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false
+}

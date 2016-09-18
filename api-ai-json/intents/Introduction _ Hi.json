@@ -1,0 +1,50 @@
+{
+  "id": "85a28bf0-faa8-4550-99da-a8e08d224eb3",
+  "name": "Introduction / Hi",
+  "auto": true,
+  "contexts": [],
+  "userSays": [
+    {
+      "id": "1049b2e5-01ee-489f-9999-d9470ac9c850",
+      "data": [
+        {
+          "text": "Hello, who is this?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "103cccbb-3659-4863-a160-a1c2ffb6ec2d",
+      "data": [
+        {
+          "text": "Hi, I\u0027m Leslie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba88e708-f1c2-4c14-9960-74f2e7c69b5d",
+      "data": [
+        {
+          "text": "Hi, my name is"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "speech": "Hi, I\u0027m Sam! Short for Sympathetic AI Messenger bot."
+    }
+  ],
+  "state": "LEARNED",
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false
+}

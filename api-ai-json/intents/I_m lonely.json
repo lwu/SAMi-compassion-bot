@@ -1,0 +1,53 @@
+{
+  "id": "6c0eb1ac-9023-4215-82c7-376265098ccb",
+  "name": "I\u0027m lonely",
+  "auto": true,
+  "contexts": [],
+  "userSays": [
+    {
+      "id": "bc884410-48fe-4120-8605-719424042127",
+      "data": [
+        {
+          "text": "I can\u0027t live like this."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0481ac00-9557-4f82-ae39-d8c8192aeebf",
+      "data": [
+        {
+          "text": "I\u0027m feeling lonely."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "08adc715-a62c-4319-ae1c-fec835218b5d",
+      "data": [
+        {
+          "text": "I have no friends. No one understands me."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "speech": [
+        "If you show concern for others and respect for their rights you will establish trust; and trust is the basis of friendship.",
+        "To overcome feelings of isolation and loneliness, your underlying attitude makes a tremendous difference - approaching others with the thought of compassion in your mind is the best way."
+      ]
+    }
+  ],
+  "state": "LEARNED",
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false
+}

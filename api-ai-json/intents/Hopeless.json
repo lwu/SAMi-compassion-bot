@@ -1,0 +1,40 @@
+{
+  "id": "8de2faa8-f5bf-4bbe-9944-8f23cb3d9aa5",
+  "name": "Hopeless",
+  "auto": true,
+  "contexts": [],
+  "userSays": [
+    {
+      "id": "60784eda-ee97-4813-8c53-d5bd339bfcce",
+      "data": [
+        {
+          "text": "I have so many problems to deal with."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a61403d-236a-4e02-b028-25d7ae28ce7c",
+      "data": [
+        {
+          "text": "I\u0027ve lost hope."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "speech": "Problems created by human beings have to be solved by human beings. Basic human nature is compassionate and this is our source of hope."
+    }
+  ],
+  "state": "LEARNED",
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false
+}

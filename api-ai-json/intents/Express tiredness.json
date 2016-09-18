@@ -1,0 +1,54 @@
+{
+  "id": "813f263d-b3f0-4115-b04e-0847bec7a22b",
+  "name": "Express tiredness",
+  "auto": true,
+  "contexts": [],
+  "userSays": [
+    {
+      "id": "28118c37-fe55-4396-8ea3-058904c62b01",
+      "data": [
+        {
+          "text": "I would like to sleep"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "94fcb6a1-6b5b-4338-bf7e-894a7a6c04f4",
+      "data": [
+        {
+          "text": "I\u0027m pooped"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16c96dea-0d97-4acf-ac63-a2aad40bf5b9",
+      "data": [
+        {
+          "text": "I\u0027m feeling pretty tired right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "speech": [
+        "Sounds like you could use a nap.",
+        "Oh I\u0027m sorry to hear that. Is there anything I could do to help you take a break?",
+        "We may sometimes feel that we can’t do much as individuals, but humanity is made up of individuals; we can make a difference."
+      ]
+    }
+  ],
+  "state": "LEARNED",
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false
+}

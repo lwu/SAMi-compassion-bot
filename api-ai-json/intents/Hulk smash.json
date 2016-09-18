@@ -1,0 +1,55 @@
+{
+  "id": "7833b1aa-d2c4-407e-93a8-2c26df3e9878",
+  "name": "Hulk smash",
+  "auto": true,
+  "contexts": [],
+  "userSays": [
+    {
+      "id": "87fac575-2d29-4c55-8874-96a37773ad4d",
+      "data": [
+        {
+          "text": "Why the heck does my boss give me more work than I can handle. I\u0027m overwhelmed."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d6d6d1fd-b230-42bd-8c00-cedd17b1a5ba",
+      "data": [
+        {
+          "text": "This sucks and I want to punch the world"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc4fc5cf-a455-4660-bd9c-8643295f7291",
+      "data": [
+        {
+          "text": "I really want to break something right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "speech": [
+        "Change starts with us as individuals. If one individual becomes more compassionate it will influence others and so we will change the world.",
+        "Meaningful dialogue requires us to respect others\u0027 rights and interests—compromise is the only way to resolve disputes.",
+        "We think that if we have health and wealth they’re enough to be happy, but actually happiness depends on the state of our minds.",
+        "Genuine peace in the world depends on our having peace in our hearts. If we are full of anger how can we expect to bring about peace."
+      ]
+    }
+  ],
+  "state": "LEARNED",
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false
+}
